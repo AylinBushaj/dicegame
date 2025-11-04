@@ -1,0 +1,50 @@
+# 🎲 Basit Zar Oyunu (React)
+
+Basit bir **zar oyunu** uygulaması.  
+**Player 1 kullanıcı**, **Player 2 PC** olarak oynar. Her tur tek zar atılır ve sonuç ekranda gösterilir.
+
+---
+
+## ⚡ Özellikler
+
+- Kullanıcı adı değiştirilebilir  
+- Her tur zarlar rastgele atılır  
+- Zar animasyonu: 3 saniye boyunca hızlı değişen zar yüzleri  
+- Sonuç ekranda gösterilir: **Kazandı / Kaybetti / Berabere**  
+- Zar görselleri kullanılarak görsel olarak oynanabilir  
+- Buton duruma göre güncellenir:  
+  - “Zar At!”  
+  - “Zarlar atılıyor...”  
+
+---
+
+## 🖼️ Görseller
+
+Zarların 1–6 arası yüzleri `src/assets/images/` klasörüne yerleştirilmiştir.  
+
+---
+
+## 💻 Kurulum ve Çalıştırma
+
+1. Projeyi klonlayın veya ZIP olarak indirin:
+
+```bash
+git clone https://github.com/kullanici/zar-oyunu.git
+cd zar-oyunu
+
+npm install
+
+
+npm start
+
+
+
+Tarayıcı otomatik olarak http://localhost:3000 adresinde açılacaktır.
+
+🛠️ Kullanılan Teknolojiler
+
+React (create-react-app veya Vite ile)
+
+JavaScript (ES6+)
+
+CSS (Flexbox ile responsive tasarım)
