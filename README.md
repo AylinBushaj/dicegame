@@ -1,3 +1,5 @@
+Projenin canlı linki ---> https://dicegameaylin.netlify.app/
+
 # 🎲 Basit Zar Oyunu (React)
 
 Basit bir **zar oyunu** uygulaması.  
