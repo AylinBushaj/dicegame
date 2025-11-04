@@ -14,9 +14,19 @@ Basit bir **zar oyunu** uygulaması.
 - Zar görselleri kullanılarak görsel olarak oynanabilir  
 - Buton duruma göre güncellenir:  
   - “Zar At!”  
-  - “Zarlar atılıyor...”  
+  - “Zarlar atılıyor...”
+  
+<img width="1266" height="660" alt="Ekran Resmi 2025-11-04 12 02 56" src="https://github.com/user-attachments/assets/58d75ab1-005e-4289-9cc2-dfb4ced35cb7" />
 
 ---
+
+🛠️ Kullanılan Teknolojiler
+
+React (create-react-app veya Vite ile)
+
+JavaScript (ES6+)
+
+CSS (Flexbox ile responsive tasarım)
 
 ## 🖼️ Görseller
 
@@ -31,20 +41,8 @@ Zarların 1–6 arası yüzleri `src/assets/images/` klasörüne yerleştirilmi�
 ```bash
 git clone https://github.com/kullanici/zar-oyunu.git
 cd zar-oyunu
-
 npm install
-
-
 npm start
 
 
 
-Tarayıcı otomatik olarak http://localhost:3000 adresinde açılacaktır.
-
-🛠️ Kullanılan Teknolojiler
-
-React (create-react-app veya Vite ile)
-
-JavaScript (ES6+)
-
-CSS (Flexbox ile responsive tasarım)
